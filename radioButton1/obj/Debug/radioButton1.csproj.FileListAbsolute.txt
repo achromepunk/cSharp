@@ -1,0 +1,15 @@
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\bin\Debug\radioButton1.exe.config
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\bin\Debug\radioButton1.exe
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\bin\Debug\radioButton1.pdb
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.csprojAssemblyReference.cache
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\MainWindow.g.cs
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\App.g.cs
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1_MarkupCompile.cache
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1_MarkupCompile.lref
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\MainWindow.baml
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.g.resources
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.Properties.Resources.resources
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.csproj.GenerateResource.cache
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.csproj.CoreCompileInputs.cache
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.exe
+C:\Users\jpiquero\source\repos\radioButton1\radioButton1\obj\Debug\radioButton1.pdb

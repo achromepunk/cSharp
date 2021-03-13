@@ -1,0 +1,54 @@
+﻿<Window x:Class="radioButton1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:radioButton1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        
+        <StackPanel Grid.Row="0">
+            <TextBlock FontSize="45" Foreground="BlueViolet" HorizontalAlignment="Center">Semaforo</TextBlock>
+        </StackPanel>
+        
+        
+        <Grid Grid.Row="1">
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+
+                <RadioButton Margin="50,20,100,80" Name="rojo" Checked="rojo_Checked" >
+                    <TextBlock Text="Rojo"></TextBlock>                    
+                </RadioButton>
+                
+                <RadioButton Margin="50,20,100,80" Name="amarillo"  Checked="amarillo_Checked">
+                    <TextBlock Text="Amarillo"></TextBlock>
+                </RadioButton>
+                
+                <RadioButton Margin="50,20,100,80" Name="verde" Checked="verde_Checked">
+                    <TextBlock Text="Verde"></TextBlock>
+                </RadioButton>
+                
+            </StackPanel>
+
+            <Grid Grid.Column="1">
+                <Image  Margin="0,0,0,0" Source="C:/Users/jpiquero/source/repos/radioButton1/radioButton1/images/green.jpg" Height="330" Name="semaforo"></Image>
+                <Ellipse Fill="red" Height="50" Width="50" Margin="169,32,170,264"  Name="erojo" Visibility="Hidden"></Ellipse>
+                <Ellipse Fill="Yellow" Height="50" Width="50"  Margin="169,105,170,191" Name="eamarillo" Visibility="Hidden"></Ellipse>
+                <Ellipse Fill="Green" Height="50" Width="50" Name="everde" Margin="169,178,170,118" Visibility="Hidden"></Ellipse>
+
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>
