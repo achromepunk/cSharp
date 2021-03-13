@@ -1,0 +1,15 @@
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.csprojAssemblyReference.cache
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\MainWindow.g.cs
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\App.g.cs
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0_MarkupCompile.cache
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0_MarkupCompile.lref
+C:\Users\jpiquero\source\repos\listbox0\listbox0\bin\Debug\listbox0.exe.config
+C:\Users\jpiquero\source\repos\listbox0\listbox0\bin\Debug\listbox0.exe
+C:\Users\jpiquero\source\repos\listbox0\listbox0\bin\Debug\listbox0.pdb
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\MainWindow.baml
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.g.resources
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.Properties.Resources.resources
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.csproj.GenerateResource.cache
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.csproj.CoreCompileInputs.cache
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.exe
+C:\Users\jpiquero\source\repos\listbox0\listbox0\obj\Debug\listbox0.pdb
