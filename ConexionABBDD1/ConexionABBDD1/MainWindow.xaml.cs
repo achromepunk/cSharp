@@ -28,7 +28,7 @@ namespace ConexionABBDD1
             InitializeComponent();
 
             //creamos una cadena de conexion
-            string miConexion = ConfigurationManager.ConnectionStrings["ConexionABBDD.Properties.Settings.MiBaseDeDatos1ConnectionString"].ConnectionString;
+            string miConexion = ConfigurationManager.ConnectionStrings["ConexionABBDD1.Properties.Settings.MiBaseDeDatos1ConnectionString"].ConnectionString;
 
             miConexionSql = new SqlConnection(miConexion);
 
