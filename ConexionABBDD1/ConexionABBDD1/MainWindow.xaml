@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Cliente" FontSize="44" FontWeight="Medium" HorizontalAlignment="Left" Margin="313,76,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.772,-2.102"/>
+        <ListBox Name="listaCliente" HorizontalAlignment="Left" Height="173" Margin="313,150,0,0" VerticalAlignment="Top" Width="163"/>
+
     </Grid>
 </Window>

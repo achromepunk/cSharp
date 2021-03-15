@@ -1,0 +1,15 @@
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\bin\Debug\ConexionABBDD1.exe.config
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\bin\Debug\ConexionABBDD1.exe
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\bin\Debug\ConexionABBDD1.pdb
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.csprojAssemblyReference.cache
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\MainWindow.g.cs
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\App.g.cs
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1_MarkupCompile.cache
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1_MarkupCompile.lref
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\MainWindow.baml
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.g.resources
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.Properties.Resources.resources
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.csproj.GenerateResource.cache
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.csproj.CoreCompileInputs.cache
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.exe
+C:\Users\jpiquero\cSharp\cSharp\ConexionABBDD1\ConexionABBDD1\obj\Debug\ConexionABBDD1.pdb

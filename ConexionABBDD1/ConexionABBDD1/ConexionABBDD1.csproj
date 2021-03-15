@@ -70,6 +70,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MiBaseDeDatos1DataSet.cs">
+      <DependentUpon>MiBaseDeDatos1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="MiBaseDeDatos1DataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
